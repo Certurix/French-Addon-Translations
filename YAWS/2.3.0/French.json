@@ -15,7 +15,7 @@
     "admin_preset_edited": "Préréglage modifié avec succès.",
     "admin_preset_nope": "Le préréglage est incomplet.",
     "admin_preset_dupe": "Un préréglage avec ce nom existe déjà.",
-    "admin_preset_cantfind": "Ce préréglage n'a pas pu être trouver.",
+    "admin_preset_cantfind": "Ce préréglage n'a pas pu être trouvé.",
     "admin_preset_removed": "Préréglage supprimé avec succès.",
     "admin_preset_limit": "Vous ne pouvez pas avoir plus de 32 préréglages.",
 
@@ -165,7 +165,7 @@
     "user_settings_darkmode_desc": "Active le mode sombre dans l'interface.",
 
     "user_settings_language_name": "Langage",
-    "user_settings_language_desc": "Quel langue souhaitez-vous utiliser? Nécessite une ré-ouverture du menu.",
+    "user_settings_language_desc": "Quelle langue souhaitez-vous utiliser? Nécessite une ré-ouverture du menu.",
 
     "user_settings_blur_name": "Flouter l'Arrière-plan",
     "user_settings_blur_desc": "Active un flou en arrière-plan. Nécessite une ré-ouverture du menu.",
